@@ -1,0 +1,5 @@
+Looking in indexes: https://download.pytorch.org/whl/cpu
+Collecting torch==2.9.1
+  Using cached https://download.pytorch.org/whl/cpu/torch-2.9.1%2Bcpu-cp313-cp313-win_amd64.whl.metadata (29 kB)
+ERROR: Could not find a version that satisfies the requirement torchvision==0.20.1 (from versions: 0.1.6, 0.2.0, 0.21.0+cpu, 0.22.0+cpu, 0.22.1+cpu, 0.23.0+cpu, 0.24.0+cpu, 0.24.1+cpu)
+ERROR: No matching distribution found for torchvision==0.20.1

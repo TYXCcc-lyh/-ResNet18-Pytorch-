@@ -1,0 +1,16 @@
+batch_idx,sample_idx,true_label,pred_label,confidence
+0,1,cataract,normal,0.8843175768852234
+0,3,cataract,normal,0.9858202934265137
+0,4,cataract,normal,0.9737665057182312
+0,5,cataract,normal,0.9275521039962769
+0,6,cataract,normal,0.8836444020271301
+0,9,cataract,normal,0.8696568012237549
+0,10,cataract,normal,0.8859846591949463
+2,10,cataract,normal,0.9999192953109741
+10,5,normal,cataract,0.7642987966537476
+11,4,normal,cataract,0.5743056535720825
+11,5,normal,cataract,0.6025283336639404
+12,8,normal,cataract,0.8227710723876953
+14,8,normal,cataract,0.6733034253120422
+15,4,normal,cataract,0.8518974781036377
+15,14,normal,cataract,0.9758288264274597
